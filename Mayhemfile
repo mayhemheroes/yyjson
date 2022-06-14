@@ -1,4 +1,4 @@
-project: rnshah9/yyjson
+project: yyjson
 target: jsoninfo
 
 cmds:
