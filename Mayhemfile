@@ -2,4 +2,4 @@ project: yyjson
 target: jsoninfo
 
 cmds:
-  - cmd: /repo/misc/jsoninfo @@
+  - cmd: /jsoninfo @@
