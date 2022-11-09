@@ -1,0 +1,5 @@
+project: yyjson
+target: jsoninfo
+
+cmds:
+  - cmd: /jsoninfo @@
