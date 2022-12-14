@@ -59,7 +59,8 @@ jobs:
       fail-fast: false
       matrix:
         mayhemfile:
-          - mayhem/Mayhemfile
+          - mayhem/Mayhemfile_jsoninfo
+          - mayhem/Mayhemfile_yyjson_read
 
     steps:
       - uses: actions/checkout@v3
