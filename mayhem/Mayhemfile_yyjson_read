@@ -1,0 +1,6 @@
+project: yyjson
+target: yysson_read
+
+cmds:
+  - cmd: /fuzz_yyjson_read
+    libfuzzer: true
